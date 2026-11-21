@@ -1,3 +1,5 @@
+# KR2: Tukhvatullina
+
 import os
 import socket
 
